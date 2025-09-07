@@ -1,54 +1,69 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/adex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/adex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/adex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/5Bl3CCizSRQ?style=social)](https://youtu.be/5Bl3CCizSRQ)
+  <h2 align="center">TRIKA ÉNERGIE - Site Vitrine Électricien</h2>
 
-  <br />
-  <br />
+  Site vitrine professionnel pour TRIKA ÉNERGIE, électricien spécialisé en PACA. <br />
+  Site entièrement responsive, développé avec HTML, CSS et JavaScript.
 
-  <h2 align="center">Adex - Business Agency Website</h2>
-
-  Adex is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/adex/"><strong>➥ Live Demo</strong></a>
+  <a href="https://www.trikaenergie.fr"><strong>➥ Site Web</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+## À propos de TRIKA ÉNERGIE
 
-![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+TRIKA ÉNERGIE est une entreprise d'électricité professionnelle basée en région PACA, spécialisée dans :
 
-### Prerequisites
+- **Installations électriques** résidentielles, commerciales et industrielles
+- **Maintenance et dépannage** 24h/24
+- **Câbles de puissance** haute et basse tension
+- **Mise aux normes** NF C 15-100
 
-Before you begin, ensure you have met the following requirements:
+### Zone d'intervention
+- Région Provence-Alpes-Côte d'Azur (PACA)
+- Nice et alentours
+- Intervention rapide garantie
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Fonctionnalités du site
 
-### Run Locally
+- ✅ **Design responsive** - Compatible tous appareils
+- ✅ **Interface moderne** - Palette de couleurs orange professionnelle
+- ✅ **Navigation intuitive** - Menu simple et efficace
+- ✅ **Sections complètes** :
+  - Présentation de l'entreprise
+  - Services détaillés
+  - Réalisations avec photos
+  - Informations de contact
+- ✅ **Optimisé SEO** - Référencement local PACA
 
-To run **Adex** locally, run this command on your git bash:
+## Technologies utilisées
 
-Linux and macOS:
+- **HTML5** - Structure sémantique
+- **CSS3** - Design moderne avec variables CSS
+- **JavaScript** - Interactions et animations
+- **Ionicons** - Icônes vectorielles
 
-```bash
-sudo git clone https://github.com/codewithsadee/adex.git
-```
+## Contact
 
-Windows:
+**TRIKA ÉNERGIE**
+- 📧 Email : contact@trikaenergie.fr
+- 📞 Téléphone : 07 64 29 43 68
+- 🌐 Site web : www.trikaenergie.fr
+- 📍 Zone : PACA, Nice et alentours
 
-```bash
-git clone https://github.com/codewithsadee/adex.git
-```
+## Installation
 
-### Contact
+Pour utiliser ce site localement :
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+1. Téléchargez ou clonez le projet
+2. Ouvrez le fichier `index.html` dans votre navigateur
+3. Le site est prêt à être utilisé !
 
-### License
+## Licence
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
+
+*Site développé pour TRIKA ÉNERGIE - Électricien professionnel en PACA*
