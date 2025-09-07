@@ -770,6 +770,78 @@ body.nav-active { overflow: hidden; }
 
 
 /*-----------------------------------*\
+  #AVIS
+\*-----------------------------------*/
+
+.avis { 
+  background-color: var(--cultured);
+  padding-block-start: 60px;
+}
+
+.avis .section-title { margin-block-end: 50px; }
+
+.avis-card {
+  background-color: var(--white);
+  padding: 40px;
+  border-radius: var(--radius-8);
+  box-shadow: var(--shadow-2);
+  transition: var(--transition-1);
+  height: 100%;
+}
+
+.avis-card:hover {
+  box-shadow: var(--shadow-orange);
+  transform: translateY(-5px);
+}
+
+.avis-content {
+  margin-block-end: 30px;
+}
+
+.avis-text {
+  font-size: var(--fs-7);
+  line-height: 1.6;
+  color: var(--black-coral);
+  font-style: italic;
+  position: relative;
+}
+
+
+.avis-author {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.author-info {
+  flex: 1;
+}
+
+.author-name {
+  color: var(--charcoal);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-700);
+  margin-block-end: 4px;
+}
+
+.author-location {
+  color: var(--orange-muted);
+  font-size: var(--fs-8);
+}
+
+.avis-rating {
+  display: flex;
+  gap: 4px;
+}
+
+.avis-rating ion-icon {
+  color: var(--orange-primary);
+  font-size: 1.6rem;
+}
+
+/*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
 
@@ -1141,6 +1213,14 @@ body.nav-active { overflow: hidden; }
    */
 
   .project .grid-list { grid-template-columns: repeat(3, 1fr); }
+
+
+
+  /**
+   * AVIS
+   */
+
+  .avis .grid-list { grid-template-columns: repeat(3, 1fr); }
 
 
 
